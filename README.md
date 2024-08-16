@@ -49,3 +49,10 @@ This model has not been evaluated to minimize computational costs and processing
 ### **Versioning and Contributors**
 **Version:**
 This is the first version of the fine-tuned model and it is still under development.
+
+
+
+
+
+**Note:**
+Due to GitHub's file size limitations, not all data used in this project has been uploaded. To obtain the complete dataset, you can download the Shamela library and export all the books in HTML format.
